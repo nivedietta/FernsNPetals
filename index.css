@@ -1,0 +1,47 @@
+body {
+    margin-top: 40px;
+}
+
+.p1 {
+    background-color: #ffcbcb;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.p2 {
+    background-color: #feceab;
+    padding-top: 220px;
+}
+
+.p3 {
+    background-color: #ea907a;
+    padding-top: 40px;
+    
+    padding-right: 40px;
+}
+
+.p4 {
+    background-color: antiquewhite;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.block {
+    margin-bottom: 70%;    
+    padding: 25px 300px 75px 0px;
+}
+.banner {
+    padding: 25px 300px 75px 0px;
+}
+@media only screen and (max-width: 600px) {
+.block {
+    margin-bottom: 40%;        
+    padding: 10px 30px 7px 0px;
+}
+.p2 {
+    background-color: #feceab;
+    padding-top: 200px;
+}
+.banner {
+    padding: 25px 30px 75px 0px;
+}
+}
